@@ -1,0 +1,20 @@
+.online {
+  color: green;
+}
+
+.offline {
+  color: red;
+}
+
+.wrapper {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  border: 3px solid black;
+  border-radius: 10px;
+  padding: 10px;
+  list-style-type: none;
+  width: 100px;
+  height: auto;
+}
